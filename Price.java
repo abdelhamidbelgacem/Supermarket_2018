@@ -1,8 +1,5 @@
 
 import checkers.igj.quals.Mutable;
-
-import org.home.kata01.product.amount.Amount;
-
 import javax.annotation.Nonnull;
 import java.math.BigDecimal;
 import java.util.Objects;
