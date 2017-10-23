@@ -1,11 +1,5 @@
-package org.home.kata01.utils;
-
-import org.home.kata01.product.discounts.Discount;
 
 import javax.annotation.Nonnull;
-
-import static org.home.kata01.product.discounts.Discount.Builder.aDiscount;
-
 public enum TestDiscount {
     FIRST(TestAmount.FIVE, TestPrice.TEN),
     SECOND(TestAmount.TWO, TestPrice.FIVE),
