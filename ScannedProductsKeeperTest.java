@@ -1,8 +1,4 @@
-package org.home.kata01.product.scanned;
-
-import org.home.kata01.utils.TestProduct;
 import org.junit.Test;
-
 import java.util.ArrayList;
 import java.util.List;
 
