@@ -1,5 +1,3 @@
-package org.home.kata01.product.scanned;
-
 import checkers.igj.quals.Mutable;
 
 import org.home.kata01.product.Name;
