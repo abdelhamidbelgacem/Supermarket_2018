@@ -1,5 +1,3 @@
-package org.home.kata01.product.discounts;
-
 import org.home.kata01.product.Price;
 import org.home.kata01.product.amount.Amount;
 
