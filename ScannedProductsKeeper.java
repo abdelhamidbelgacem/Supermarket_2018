@@ -1,5 +1,3 @@
-package org.home.kata01.product.scanned;
-
 import org.home.kata01.product.Name;
 
 import javax.annotation.Nonnull;
