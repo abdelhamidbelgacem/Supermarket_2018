@@ -1,5 +1,3 @@
-package org.home.kata01.product.amount;
-
 import checkers.igj.quals.Mutable;
 
 import javax.annotation.Nonnull;
