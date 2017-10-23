@@ -1,6 +1,3 @@
-import org.home.kata01.product.Price;
-import org.home.kata01.product.amount.Amount;
-
 import javax.annotation.Nonnull;
 import java.util.Comparator;
 import java.util.HashMap;
