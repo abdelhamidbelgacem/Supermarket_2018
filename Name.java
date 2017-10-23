@@ -1,4 +1,3 @@
-package org.home.kata01.product;
 
 import checkers.igj.quals.Immutable;
 
