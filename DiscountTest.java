@@ -1,5 +1,3 @@
-package org.home.kata01.product.discounts;
-
 import junitx.extensions.EqualsHashCodeTestCase;
 
 import org.home.kata01.product.Price;
