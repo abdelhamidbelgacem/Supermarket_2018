@@ -1,5 +1,3 @@
-package org.home.kata01.product.amount;
-
 import javax.annotation.Nonnull;
 
 public interface Amount extends Comparable<Amount> {
