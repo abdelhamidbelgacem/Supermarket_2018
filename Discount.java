@@ -1,15 +1,9 @@
 
 
 import checkers.igj.quals.Immutable;
-
-import org.home.kata01.product.Price;
-import org.home.kata01.product.amount.Amount;
-
 import javax.annotation.Nonnull;
 import java.util.Objects;
 
-import static com.google.common.base.Preconditions.checkState;
-import static org.home.kata.product.amount.Amount.Builder.anAmount;
 
 @Immutable
 public class Discount {
