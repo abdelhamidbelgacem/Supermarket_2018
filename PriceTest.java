@@ -1,10 +1,4 @@
-package org.home.kata01.product;
-
 import junitx.extensions.EqualsHashCodeTestCase;
-
-import org.home.kata01.product.amount.Amount;
-import org.home.kata01.utils.TestAmount;
-import org.home.kata01.utils.TestPrice;
 import org.junit.Test;
 import org.junit.experimental.runners.Enclosed;
 import org.junit.runner.RunWith;
