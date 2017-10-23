@@ -5,9 +5,6 @@ import java.util.Objects;
 
 import static com.google.common.base.Preconditions.checkState;
 import static java.util.Objects.nonNull;
-import static org.home.kata01.product.discounts.DiscountManager.IteratorState.NEXT_ELEMENT;
-import static org.home.kata01.product.discounts.DiscountManager.IteratorState.REPEAT_FOR_CURRENT_ELEMENT;
-
 @Immutable
 public class Product {
     public final  Name            name;
