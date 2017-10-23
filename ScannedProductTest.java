@@ -1,8 +1,4 @@
-package org.home.kata01.product.scanned;
-
 import junitx.extensions.EqualsHashCodeTestCase;
-
-import org.home.kata01.utils.TestName;
 import org.junit.Test;
 import org.junit.experimental.runners.Enclosed;
 import org.junit.runner.RunWith;
@@ -33,7 +29,7 @@ public class ScannedProductTest {
         protected Object createInstance() throws Exception {
             return ScannedProduct.of(TestName.A.name());
         }
-
+        
         @Override
         protected Object createNotEqualInstance() throws Exception {
             ScannedProduct scannedProduct = ScannedProduct.of(TestName.A.name());
