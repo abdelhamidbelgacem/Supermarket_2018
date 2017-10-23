@@ -1,5 +1,3 @@
-package org.home.kata01.product.amount;
-
 import junitx.extensions.ComparabilityTestCase;
 import junitx.extensions.EqualsHashCodeTestCase;
 
@@ -64,7 +62,7 @@ public class MutableAmountTest {
 
             amount.subtract(subtrahend);
 
-            assertThat(amount.value(), is(4));
+            assertThat(amount.value(), is(3));
         }
 
         @Test
