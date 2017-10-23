@@ -1,10 +1,3 @@
-package org.home.kata01;
-
-import org.home.kata01.product.Price;
-import org.home.kata01.product.Product;
-import org.home.kata01.product.ProductsManager;
-import org.home.kata01.product.scanned.ScannedProductsKeeper;
-
 import javax.annotation.Nonnull;
 
 public class CheckOut {
