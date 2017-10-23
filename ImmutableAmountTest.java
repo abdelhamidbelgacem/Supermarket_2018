@@ -1,5 +1,3 @@
-package org.home.kata01.product.amount;
-
 import org.junit.Before;
 import org.junit.Test;
 
