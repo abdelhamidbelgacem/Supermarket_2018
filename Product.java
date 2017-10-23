@@ -1,17 +1,10 @@
-package org.home.kata01.product;
-
 import checkers.igj.quals.Immutable;
-
-import org.home.kata01.product.amount.Amount;
-import org.home.kata01.product.discounts.Discount;
-import org.home.kata01.product.discounts.DiscountManager;
 
 import javax.annotation.Nonnull;
 import java.util.Objects;
 
 import static com.google.common.base.Preconditions.checkState;
 import static java.util.Objects.nonNull;
-import static org.home.kata01.product.amount.Amount.Builder.anAmount;
 import static org.home.kata01.product.discounts.DiscountManager.IteratorState.NEXT_ELEMENT;
 import static org.home.kata01.product.discounts.DiscountManager.IteratorState.REPEAT_FOR_CURRENT_ELEMENT;
 
