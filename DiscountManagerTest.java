@@ -1,10 +1,4 @@
-package org.home.kata01.product.discounts;
-
-import org.home.kata01.product.Price;
 import org.home.kata01.product.amount.Amount;
-import org.home.kata01.product.amount.MutableAmount;
-import org.home.kata01.product.discounts.DiscountManager.IteratorState;
-import org.home.kata01.utils.TestDiscount;
 import org.junit.Before;
 import org.junit.Test;
 
