@@ -1,13 +1,5 @@
-package org.home.kata01.product;
 
 import junitx.extensions.EqualsHashCodeTestCase;
-
-import org.home.kata01.product.discounts.Discount;
-import org.home.kata01.utils.TestAmount;
-import org.home.kata01.utils.TestDiscount;
-import org.home.kata01.utils.TestName;
-import org.home.kata01.utils.TestPrice;
-import org.home.kata01.utils.TestProduct;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.experimental.runners.Enclosed;
