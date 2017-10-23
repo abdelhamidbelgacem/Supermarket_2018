@@ -1,5 +1,3 @@
-package org.home.kata01.product;
-
 import junitx.extensions.EqualsHashCodeTestCase;
 
 import org.home.kata01.utils.TestName;
