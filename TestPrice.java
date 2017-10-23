@@ -1,7 +1,3 @@
-package org.home.kata01.utils;
-
-import org.home.kata01.product.Price;
-
 import javax.annotation.Nonnull;
 
 public enum TestPrice {
