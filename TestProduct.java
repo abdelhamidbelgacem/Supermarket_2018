@@ -1,11 +1,4 @@
-package org.home.kata01.utils;
-
-import org.home.kata01.product.Product;
-
 import javax.annotation.Nonnull;
-
-import static org.home.kata01.product.Product.Builder.aProduct;
-
 public enum TestProduct {
     A(TestName.A, TestPrice.TEN),
     B(TestName.B, TestPrice.FIVE),
