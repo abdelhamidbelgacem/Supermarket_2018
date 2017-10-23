@@ -1,5 +1,3 @@
-package org.home.kata01.product;
-
 import javax.annotation.Nonnull;
 import java.util.HashMap;
 import java.util.Map;
